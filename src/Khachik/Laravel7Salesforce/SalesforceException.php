@@ -6,7 +6,7 @@
  * Time: 6:23 PM
  */
 
-namespace Davispeixoto\Laravel5Salesforce;
+namespace Khachik\Laravel7Salesforce;
 
 use Exception;
 

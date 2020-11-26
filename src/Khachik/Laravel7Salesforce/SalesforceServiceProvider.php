@@ -1,11 +1,11 @@
-<?php namespace Davispeixoto\Laravel5Salesforce;
+<?php namespace Khachik\Laravel7Salesforce;
 
 use Illuminate\Support\ServiceProvider;
 use Davispeixoto\ForceDotComToolkitForPhp\SforceEnterpriseClient as Client;
 
 /**
  * Class SalesforceServiceProvider
- * @package Davispeixoto\Laravel5Salesforce
+ * @package Khachik\Laravel7Salesforce
  *
  * The Laravel Service Provider for Salesforce Service
  */
@@ -49,6 +49,6 @@ class SalesforceServiceProvider extends ServiceProvider
      */
     public function provides()
     {
-        return ['salesforce', 'Davispeixoto\Laravel5Salesforce\Salesforce'];
+        return ['salesforce', 'Khachik\Laravel7Salesforce\Salesforce'];
     }
 }

@@ -1,4 +1,4 @@
-<?php namespace Davispeixoto\Laravel5Salesforce;
+<?php namespace Khachik\Laravel7Salesforce;
 
 use Illuminate\Support\Facades\Facade;
 
