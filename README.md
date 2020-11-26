@@ -25,12 +25,12 @@ It also fixes a too much consuming session at Salesforce, thus these new version
 ## Installation
 
 The Laravel 5 package can be installed via [Composer](http://getcomposer.org) by requiring the
-`davispeixoto/laravel5-salesforce` package in your project's `composer.json`.
+`khachik/laravel7-salesforce` package in your project's `composer.json`.
 
 ```json
 {
     "require": {
-        "davispeixoto/laravel5-salesforce": "~1.0"
+        "khachik/laravel7-salesforce": "~1.0"
     }
 }
 ```
@@ -47,12 +47,12 @@ Find the `providers` key in your `config/app.php` and register the AWS Service P
 ```php
     'providers' => array(
         // ...
-        Davispeixoto\Laravel5Salesforce\SalesforceServiceProvider::class,
+        Khachik\Laravel7Salesforce\SalesforceServiceProvider::class,
     )
     
     'aliases' => array(
         // ...
-        'Salesforce' => Davispeixoto\Laravel5Salesforce\SalesforceFacade::class,
+        'Salesforce' => Khachik\Laravel7Salesforce\SalesforceFacade::class,
     )
 ```
 
