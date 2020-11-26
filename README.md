@@ -13,10 +13,10 @@ _(Laravel 4 Salesforce Package can be found [here](https://github.com/davispeixo
 [![SensioLabsInsight](https://insight.sensiolabs.com/projects/004992d1-90a7-4bd6-9dae-2d8b541386ae/small.png)](https://insight.sensiolabs.com/projects/004992d1-90a7-4bd6-9dae-2d8b541386ae)
 
 ## Major upgrade
-This package is intended to support both Laravel 5.1 LTS and 5.2+.
+This package is intended to support both Laravel 7.0 LTS and 7.0+.
 
-Laravel 5.1 package will be kept under version 1.*
-Laravel 5.2 package will be kept under version 2.*
+Laravel 7.1 package will be kept under version 1.*
+Laravel 7.2 package will be kept under version 2.*
 
 Consider this when installing or upgrading
 
