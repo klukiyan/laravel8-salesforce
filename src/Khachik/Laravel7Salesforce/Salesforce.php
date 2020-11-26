@@ -5,7 +5,7 @@ use Exception;
 
 /**
  * Class Salesforce
- * @package Davispeixoto\Laravel5Salesforce
+ * @package Khachik\Laravel7Salesforce
  *
  * The Salesforce service accessor Constructor
  */

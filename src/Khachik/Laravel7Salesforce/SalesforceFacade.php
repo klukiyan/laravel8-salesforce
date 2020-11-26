@@ -4,7 +4,7 @@ use Illuminate\Support\Facades\Facade;
 
 /**
  * Class SalesforceFacade
- * @package  Davispeixoto\Laravel5Salesforce
+ * @package  Khachik\Laravel7Salesforce
  *
  * Facade for the Salesforce service
  */
